@@ -46,8 +46,7 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-"I am eager to bring my technical skills, leadership experience, and passion for learning to new challenges and contribute meaningfully to the field of Generative AI. As a team player, I thrive in collaborative environments, embracing challenges and viewing them as opportunities for growth. My commitment to lifelong learning drives me to stay on the cutting edge of technology, making me well-suited for dynamic and evolving roles in AI and Data Science."
+const detailOrQuote = "I am eager to bring my technical skills, leadership experience, and passion for learning to new challenges and contribute meaningfully to the field of Generative AI. As a team player, I thrive in collaborative environments, embracing challenges and viewing them as opportunities for growth. My commitment to lifelong learning drives me to stay on the cutting edge of technology, making me well-suited for dynamic and evolving roles in AI and Data Science.";
 
 const About = () => {
   return (
