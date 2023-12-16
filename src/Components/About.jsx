@@ -23,20 +23,22 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+const description = "Hello, I'm M. Nurullah Gümüş, a dynamic professional with a diverse computer engineering, web development, and data engineering background. Originally from Diyarbakır, Turkey, I was born on 01.10.1998 and am currently pursuing my studies at the University of Passau in the AI Engineering Program";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Engineering",
+  "Data Science",
+  "Machine Learning",
+  "Deep Learning",
+  "Web development",
+  "Full stack development",
+  "Embedded systems",
+  "Robotics",
+  "Finance",
 ];
 
 /**
@@ -45,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+"I am eager to bring my technical skills, leadership experience, and passion for learning to new challenges and contribute meaningfully to the field of Generative AI. As a team player, I thrive in collaborative environments, embracing challenges and viewing them as opportunities for growth. My commitment to lifelong learning drives me to stay on the cutting edge of technology, making me well-suited for dynamic and evolving roles in AI and Data Science."
 
 const About = () => {
   return (
